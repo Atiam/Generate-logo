@@ -8,8 +8,11 @@ const fs = require(`fs`);
 const {Triangle, Circle, Square} = require(`./lib/shapes`);
 
 
+
+
+
 function toGenerateSvgContent(answers){
-    // const baseSvg = `<svg width="200" height="300" xmlns="http:www.w3.org/2000/svg">`
+
     let shape;
     switch(answers.shape){
         case 'circle':
@@ -31,10 +34,9 @@ function toGenerateSvgContent(answers){
                 break;
     }
     
-    // const textSvg = `<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="${answers.textcolor}">${answers.text}</text>`
         
 
-    return `svgLogContent`;
+    return `${svgLogContent}`;
 
 }    
 
@@ -71,7 +73,7 @@ function init() {
 
             {
                 type: 'input',
-                name: 'shape color',
+                name: 'shapeColor',
                 message: 'Please enter the shape color (keyword or hexadecimal): ',
                 default: 'blue'
             }
