@@ -9,7 +9,7 @@ This is a Node.js command-line application that takes in user input to generate 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#Questions)
-- [Illustration](#Illustration)
+- [Illustration](#Illustration: Video & photos)
 
 ## Usage
 The application can be used to create a simple logo.
