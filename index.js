@@ -59,7 +59,7 @@ function init() {
             },
             {
                 type: 'input',
-                name: 'textcolor',
+                name: 'textColor',
                 message: 'Please enter text color (keyword or hexadecimal): ',
                 default: `white`
                
