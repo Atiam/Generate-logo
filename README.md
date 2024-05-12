@@ -35,13 +35,13 @@ For any correction, please find the source code on Atiam Github. For any questio
 ![Watch the video](https://github.com/JescelJames/svg-logo-maker/assets/105643185/8a1e60ba-76b7-43f7-b263-834738c56830)
 
 
-![alt text](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/testing.png)
+![testing](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/testing.png)
 
-![alt text](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/command_line.png)
+![command_line](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/command_line.png)
 
-![alt text](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/circle_svg_logo.png)
+![circle_svg_logo](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/circle_svg_logo.png)
 
-![alt text](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/Triangle_svg_logo.png)
+![Triangle_svg_logo](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/Triangle_svg_logo.png)
 
-![alt text](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/square.png)
+![squaret_svg_logo](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/square.png)
 
