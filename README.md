@@ -5,11 +5,11 @@ This is a Node.js command-line application that takes in user input to generate 
 
 ## Table Of Contents
 - [Usage](#usage)
-- [License](#License)
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#Questions)
-- [Illustration](#Illustration: Video & photos)
+- [Questions](#questions)
+- [Illustration](#illustration)
 
 ## Usage
 The application can be used to create a simple logo.
@@ -30,7 +30,7 @@ The tests were performed using the jest module.
 For any correction, please find the source code on Atiam Github. For any questions, please reach out to me on arnaudtiam50@gmail.com.
 
 
-## Illustration: Video & photos
+## Illustration
 
 ![Watch the video](https://github.com/JescelJames/svg-logo-maker/assets/105643185/8a1e60ba-76b7-43f7-b263-834738c56830)
 
