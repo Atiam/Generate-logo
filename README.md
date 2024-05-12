@@ -32,7 +32,7 @@ For any correction, please find the source code on Atiam Github. For any questio
 
 ## Illustration
 
-![Watch the video](https://github.com/JescelJames/svg-logo-maker/assets/105643185/8a1e60ba-76b7-43f7-b263-834738c56830)
+![Please click here to Watch the video](https://github.com/JescelJames/svg-logo-maker/assets/105643185/8a1e60ba-76b7-43f7-b263-834738c56830)
 
 
 ![testing](https://github.com/Atiam/SVG-logo-Generator_-Arnaud-Tiam/blob/main/assets/image_video/testing.png)
